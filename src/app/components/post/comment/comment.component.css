@@ -1,0 +1,19 @@
+.comments-card {
+    margin: 20px 0;
+    padding: 20px;
+    max-width: 600px;
+  }
+  
+  .full-width {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  mat-list-item {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
